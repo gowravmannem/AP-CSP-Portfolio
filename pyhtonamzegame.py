@@ -103,10 +103,10 @@ def collision(thing):
         return False
 
 def playercontrol():
-    screen.onkey(moveleft,"left")
-    screen.onkey(movedown,"down")
-    screen.onkey(moveup,"up")
-    screen.onkey(moveright,"right")
+    screen.onkey(moveleft,"Left")
+    screen.onkey(movedown,"Down")
+    screen.onkey(moveup,"Up")
+    screen.onkey(moveright,"Right")
     screen.listen()
 
 def moveallenemies():
