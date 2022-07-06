@@ -1,4 +1,6 @@
 # Gman-stheGOAT
 
-Uploaded old file from repl.it
-Still need to run it and see if it works on vs code
+I made a python maze game for my AP CS A portfolio
+This was during COVID-19 so format maybe outdated
+
+I got a 4.
